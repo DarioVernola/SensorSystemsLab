@@ -1,4 +1,4 @@
-# Sensor Ststems Lab 
+# Sensor Systems Lab 
 Lab projects for the Sensor system course
 
 The projects in this repository represent some of the lab and exams applications and homeworks regarding the Sensor Systems course of Politecnico di Milano.
